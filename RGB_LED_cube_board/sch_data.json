@@ -1,0 +1,229 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "/data/Projects/RGB-LED-cube-5x5x5/RGB_LED_cube_board/RGB_LED_cube_board.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "C1",
+                "x_position": 111.76,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "C18",
+                "x_position": 218.44,
+                "y_position": 81.28,
+                "rotation": 0
+            },
+            {
+                "reference": "C25",
+                "x_position": 246.38,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "C7",
+                "x_position": 260.35,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR02",
+                "x_position": 175.26,
+                "y_position": 62.23,
+                "rotation": 0
+            },
+            {
+                "reference": "C27",
+                "x_position": 204.47,
+                "y_position": 114.3,
+                "rotation": 0
+            },
+            {
+                "reference": "C22",
+                "x_position": 204.47,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "C24",
+                "x_position": 232.41,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "C15",
+                "x_position": 246.38,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "C30",
+                "x_position": 246.38,
+                "y_position": 114.3,
+                "rotation": 0
+            },
+            {
+                "reference": "C4",
+                "x_position": 149.86,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "C26",
+                "x_position": 260.35,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "C21",
+                "x_position": 260.35,
+                "y_position": 81.28,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 175.26,
+                "y_position": 41.91,
+                "rotation": 0
+            },
+            {
+                "reference": "C12",
+                "x_position": 204.47,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "C31",
+                "x_position": 260.35,
+                "y_position": 114.3,
+                "rotation": 0
+            },
+            {
+                "reference": "C16",
+                "x_position": 260.35,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "C8",
+                "x_position": 246.38,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "C2",
+                "x_position": 124.46,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "C28",
+                "x_position": 218.44,
+                "y_position": 114.3,
+                "rotation": 0
+            },
+            {
+                "reference": "C13",
+                "x_position": 218.44,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "C14",
+                "x_position": 232.41,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "C5",
+                "x_position": 162.56,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "C11",
+                "x_position": 204.47,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "C19",
+                "x_position": 232.41,
+                "y_position": 81.28,
+                "rotation": 0
+            },
+            {
+                "reference": "C10",
+                "x_position": 218.44,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "C3",
+                "x_position": 137.16,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "C20",
+                "x_position": 246.38,
+                "y_position": 81.28,
+                "rotation": 0
+            },
+            {
+                "reference": "C29",
+                "x_position": 232.41,
+                "y_position": 114.3,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR03",
+                "x_position": 200.66,
+                "y_position": 34.29,
+                "rotation": 0
+            },
+            {
+                "reference": "C17",
+                "x_position": 204.47,
+                "y_position": 81.28,
+                "rotation": 0
+            },
+            {
+                "reference": "C9",
+                "x_position": 232.41,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "U1",
+                "x_position": 74.93,
+                "y_position": 64.77,
+                "rotation": 0
+            },
+            {
+                "reference": "C23",
+                "x_position": 218.44,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR04",
+                "x_position": 264.16,
+                "y_position": 128.27,
+                "rotation": 0
+            },
+            {
+                "reference": "C6",
+                "x_position": 175.26,
+                "y_position": 52.07,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    }
+]
